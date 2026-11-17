@@ -1,0 +1,5 @@
+name: "x_manual_ops"
+title: "X Manual Ops"
+description: "Do one X action at a time by hand from a logged-in Camoufox profile: post, reply, like, follow and DM, plus deleting one of the account's own posts and liking several tweets in one session, with the composer and verification rules learned in the field."
+category: "Work and knowledge"
+include_in_prompt: true

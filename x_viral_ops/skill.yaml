@@ -1,0 +1,5 @@
+name: "x_viral_ops"
+title: "X Viral Ops"
+description: "Generate and run viral style X posts and engagement for the user's account using a hit breakdown method adapted from an open source Xiaohongshu ops skill, with hard red lines against Chinese politics topics and mutual follow bait."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "x_ops_automation"
+title: "X Ops Automation"
+description: "Run serialized, randomly cooled down X account operations (post, comment, reply, like, blue-V follow-back) from a state machine with IP purity guards and dual bookkeeping in a local log and the X operations space."
+category: "Work and knowledge"
+include_in_prompt: true

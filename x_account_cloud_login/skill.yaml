@@ -1,0 +1,5 @@
+name: "x_account_cloud_login"
+title: "X Account Cloud Login"
+description: "Log an X account into the cloud Camoufox profile behind the user's residential proxy by signing in with Google in Chromium and transplanting the session."
+category: "Work and knowledge"
+include_in_prompt: true
